@@ -52,6 +52,10 @@ bads.txt
 might_be_banned.txt
 toCheckAgain[Error].txt
 ```
+# Image
+
+![TT Sessionids Checker](image.png)
+
 
 ## 📝 License
 
